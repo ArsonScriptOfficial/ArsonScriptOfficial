@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   <h3>Tools</h3>
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
+  <img src="https://svgl-badge.vercei/Software/Visual%20Studio%20Code?theme=dark/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
 </div>
 <div align="center">
